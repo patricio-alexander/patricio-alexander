@@ -2,7 +2,7 @@
 <h3 align="center">Un apasionado full-stack desarrollador de Ecuador</h3>
 
 # 👨‍💻 Sobre mí
-¡Hola, mundo! 👋 Soy Patricio, un apasionado programador joven proveniente de la hermosa tierra de Ecuador 🇪🇨. Con apenas 20 años, mi sed insaciable de conocimiento y mi determinación ardiente me impulsan a sumergirme en el vasto universo de la programación con entusiasmo y energía inquebrantable.
+¡Hola! 👋 Soy un apasionado programador joven proveniente de la hermosa tierra de Ecuador 🇪🇨. Con apenas 20 años, mi sed insaciable de conocimiento y mi determinación ardiente me impulsan a sumergirme en el vasto universo de la programación con entusiasmo y energía inquebrantable.
 
 Desde que escribí mi primer "Hola, Mundo" en la pantalla, supe que la tecnología sería mi destino. Mi fascinación por desentrañar los misterios del código y crear soluciones innovadoras me ha llevado a embarcarme en un viaje emocionante hacia la excelencia en la programación.
 
